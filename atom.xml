@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[AllenYoung's Blog]]></title>
+  <subtitle><![CDATA[Aim to be an Engineer and Programmer]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com//"/>
+  <updated>2015-06-28T16:20:59.907Z</updated>
+  <id>http://yoursite.com//</id>
+  
+  <author>
+    <name><![CDATA[Allen Young]]></name>
+    <email><![CDATA[allenyoung717@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/06/28/Hello-World/"/>
+    <id>http://yoursite.com/2015/06/28/Hello-World/</id>
+    <published>2015-06-28T07:52:09.000Z</published>
+    <updated>2015-06-28T16:20:59.907Z</updated>
+    <content type="html"><![CDATA[<p>This is my first blog, welcome!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is my first blog, welcome!</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
