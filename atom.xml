@@ -5,7 +5,7 @@
   <subtitle><![CDATA[只能静下心来学习，毕竟才华还撑不起野心。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-06-30T02:53:24.733Z</updated>
+  <updated>2015-06-30T07:55:51.252Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -16,11 +16,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[test]]></title>
+    <link href="http://yoursite.com/2015/06/30/test/"/>
+    <id>http://yoursite.com/2015/06/30/test/</id>
+    <published>2015-06-30T06:35:42.000Z</published>
+    <updated>2015-06-30T07:55:51.252Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <link href="http://yoursite.com/2015/06/28/Hello-World/"/>
     <id>http://yoursite.com/2015/06/28/Hello-World/</id>
     <published>2015-06-28T07:52:09.000Z</published>
-    <updated>2015-06-30T02:53:24.733Z</updated>
+    <updated>2015-06-30T07:55:50.560Z</updated>
     <content type="html"><![CDATA[<p>This is my first blog, welcome!<br><a id="more"></a></p>
 <h1 id="一级标题">一级标题</h1><h2 id="二级标题">二级标题</h2><h3 id="三级标题">三级标题</h3><h4 id="四级标题">四级标题</h4><h5 id="五级标题">五级标题</h5><ul>
 <li>文本1</li>
@@ -36,6 +53,10 @@
     <![CDATA[<p>This is my first blog, welcome!<br>]]>
     
     </summary>
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
     
   </entry>
   
