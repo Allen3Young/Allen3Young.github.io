@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   
   <title><![CDATA[AllenYoung's Blog]]></title>
-  <subtitle><![CDATA[“有些事，不是看到了希望才去坚持；而是因为坚持了才会看到希望” -- 致自己]]></subtitle>
+  <subtitle><![CDATA[“有些事，不是看到了希望才去坚持，而是因为坚持了才会看到希望” -- 致自己]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
   <updated>2015-06-30T07:55:51.252Z</updated>
