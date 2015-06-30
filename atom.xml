@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   
   <title><![CDATA[AllenYoung's Blog]]></title>
-  <subtitle><![CDATA[Aim to be an Engineer and Programmer]]></subtitle>
+  <subtitle><![CDATA[只能静下心来学习，毕竟才华还撑不起野心。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-06-28T16:20:59.907Z</updated>
+  <updated>2015-06-30T02:53:24.733Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -20,12 +20,21 @@
     <link href="http://yoursite.com/2015/06/28/Hello-World/"/>
     <id>http://yoursite.com/2015/06/28/Hello-World/</id>
     <published>2015-06-28T07:52:09.000Z</published>
-    <updated>2015-06-28T16:20:59.907Z</updated>
-    <content type="html"><![CDATA[<p>This is my first blog, welcome!</p>
+    <updated>2015-06-30T02:53:24.733Z</updated>
+    <content type="html"><![CDATA[<p>This is my first blog, welcome!<br><a id="more"></a></p>
+<h1 id="一级标题">一级标题</h1><h2 id="二级标题">二级标题</h2><h3 id="三级标题">三级标题</h3><h4 id="四级标题">四级标题</h4><h5 id="五级标题">五级标题</h5><ul>
+<li>文本1</li>
+<li>文本2</li>
+</ul>
+<p><a href="http://jianshu.io" target="_blank" rel="external">简书</a></p>
+<p><img src="http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg" alt=""></p>
+<blockquote>
+<p>一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。<br>$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$ ddddddddddddddd</p>
+</blockquote>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>This is my first blog, welcome!</p>
-]]>
+    <![CDATA[<p>This is my first blog, welcome!<br>]]>
+    
     </summary>
     
   </entry>
